@@ -1,6 +1,8 @@
 # Environmental Data Analysis Tool
 
-This repository contains a Python application that utilizes the Google Earth Engine API, Streamlit, and various datasets to analyze environmental metrics across different regions of Africa. The tool allows users to select a region (West Africa, East Africa, Southern Africa) and visualize key environmental indicators such as land area, greenhouse gas emissions, precipitation, air pollution, and surface temperature over time. Additionally, it calculates and displays correlations between these metrics.
+This repository contains a Python application developed during a 24-hour hackathon aimed at solving sustainability challenges in Africa and its local regions. Inspired by the recent floods in Kenya and guided by the United Nations' Sustainable Development Goal #13: Climate Action, this project was born out of a commitment to create a meaningful dashboard that provides actionable insights to help mitigate the adverse effects of climate change in the future.
+
+The tool leverages the Google Earth Engine API, Streamlit, and various datasets to analyze environmental metrics across different regions of Africa. Users can select a region (West Africa, East Africa, Southern Africa) and visualize key environmental indicators such as land area, greenhouse gas emissions, precipitation, air pollution, and surface temperature over time. Additionally, it calculates and displays correlations between these metrics, offering valuable insights into the interplay between different environmental factors.
 
 ## Features
 
